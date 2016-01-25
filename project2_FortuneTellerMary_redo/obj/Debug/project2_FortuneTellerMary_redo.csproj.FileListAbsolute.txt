@@ -1,0 +1,6 @@
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project2_FortuneTellerMary_redo\project2_FortuneTellerMary_redo\bin\Debug\project2_FortuneTellerMary_redo.exe.config
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project2_FortuneTellerMary_redo\project2_FortuneTellerMary_redo\bin\Debug\project2_FortuneTellerMary_redo.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project2_FortuneTellerMary_redo\project2_FortuneTellerMary_redo\bin\Debug\project2_FortuneTellerMary_redo.pdb
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project2_FortuneTellerMary_redo\project2_FortuneTellerMary_redo\obj\Debug\project2_FortuneTellerMary_redo.csprojResolveAssemblyReference.cache
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project2_FortuneTellerMary_redo\project2_FortuneTellerMary_redo\obj\Debug\project2_FortuneTellerMary_redo.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\project2_FortuneTellerMary_redo\project2_FortuneTellerMary_redo\obj\Debug\project2_FortuneTellerMary_redo.pdb
